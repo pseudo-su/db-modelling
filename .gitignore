@@ -1,0 +1,16 @@
+/target
+Cargo.lock
+/.env
+/.vscode/settings.json
+**/.DS_Store
+
+#  Temp files
+*.tmp.csv
+*.tmp.json
+*.tmp.sql
+
+# Temporary SQL files
+/*.session.sql
+
+# dotenv files
+/.env*.local
