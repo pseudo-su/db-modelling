@@ -115,7 +115,7 @@ SELECT * FROM house_windows
 
 ![Houses table](./houses.png)
 
-![ERD without foreign keys](./erd-without-fk)
+![ERD without foreign keys](./erd-without-fk.png)
 
 ### Relationships between tables
 
@@ -146,4 +146,4 @@ INSERT INTO house_windows (house_id, height_mm, width_mm)
 VALUES (2, 200, 600);
 ```
 
-![ERD with foreign key](./erd-with-fk)
+![ERD with foreign key](./erd-with-fk.png)
